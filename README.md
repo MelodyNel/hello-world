@@ -1,2 +1,5 @@
 # hello-world
-Repository
+
+Hi Everyone
+
+Melody here. Just starting off on this journey
